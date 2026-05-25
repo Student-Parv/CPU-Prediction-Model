@@ -29,7 +29,3 @@ Since this is a notebook-based project, you will typically need:
 - Common data science libraries such as `pandas`, `numpy`, `matplotlib`, and `scikit-learn`
 
 If the notebook uses additional packages, install them as needed before running it.
-
-## Notes
-
-This README was added to make the repository easier to understand and navigate. You can expand it later with dataset details, model metrics, and usage instructions specific to the notebook.
